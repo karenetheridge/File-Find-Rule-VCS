@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/File-Find-Rule-VCS-*/
+/File-Find-Rule-VCS-*.tar.gz
