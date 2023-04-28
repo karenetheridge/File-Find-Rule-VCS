@@ -60,7 +60,7 @@ use Carp                  ();
 use Text::Glob       0.08 ();
 use File::Find::Rule 0.20 ();
 
-our $VERSION = '1.09';
+our $VERSION = '1.10';
 our @ISA     = 'File::Find::Rule';
 our @EXPORT  = @File::Find::Rule::EXPORT;
 
